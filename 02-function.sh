@@ -4,7 +4,7 @@
 
 # exmaple
 
-exmaple(){
+example(){
     echo example function
     echo value of x- $x
 

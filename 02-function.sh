@@ -1,3 +1,5 @@
 exmaple(){
-    echo Examplee exmaple
+    echo Example
 }
+
+exmaple

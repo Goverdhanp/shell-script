@@ -1,5 +1,3 @@
 exmaple(){
-    echo Examplee Function
+    echo Examplee exmaple
 }
-
-example

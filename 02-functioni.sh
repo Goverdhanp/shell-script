@@ -1,0 +1,3 @@
+exmaple(){
+    echo Examplee Function
+}

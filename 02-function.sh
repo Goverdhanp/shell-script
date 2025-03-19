@@ -1,5 +1,15 @@
+# exmaple(){
+#     echo Example
+# }
+
+# exmaple
+
 exmaple(){
-    echo Example
+    echo example function
+    echo value of x- $x
+
+
 }
 
-exmaple
+x=26
+example
